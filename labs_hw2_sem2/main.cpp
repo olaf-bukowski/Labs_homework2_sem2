@@ -53,8 +53,8 @@ private:
 
 int main()
 {
-    Time t2(0);
-    cin >> t2;
-    cout << t2;
+    Time t3(0);
+    cin >> t3;
+    cout << t3;
     return 0;
 }
