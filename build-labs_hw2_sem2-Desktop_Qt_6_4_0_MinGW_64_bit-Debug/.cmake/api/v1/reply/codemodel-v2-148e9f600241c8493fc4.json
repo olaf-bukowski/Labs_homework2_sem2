@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-cff05a1c7e01da99e768.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "labs_hw2_sem2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "labs_hw2_sem2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-labs_hw2_sem2-Debug-c1823f8d57a2193b236b.json",
+					"name" : "labs_hw2_sem2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Olafe/Documents/Labs_homework2_sem2/build-labs_hw2_sem2-Desktop_Qt_6_4_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Olafe/Documents/Labs_homework2_sem2/labs_hw2_sem2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
